@@ -6,4 +6,3 @@
 
 # 2eme modification
 
-PS: Gros boulet, faut mettre des lignes blanches Nan mais ohhhh c'est pas gentil !
